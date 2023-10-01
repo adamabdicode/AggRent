@@ -1,8 +1,8 @@
 # AggRent
 
-An innovative tool that facilitates renting, buying and selling of used and new agriculture machinery. It solves the problem of farmers with old and outdated equipment not being able to acquire modern machinery. It also solves the problem of farmers having machinery sitting around during off season. Our website also has a blog that connects farmers.
+An innovative tool that facilitates renting, buying and selling of used and new agriculture machinery. It solves the problem of farmers with old and outdated equipment not being able to acquire modern machinery. It also solves the problem of farmers having machinery sitting around during off season. Our website also has a blog that connects farmers. The technologies we used for this project were JavaScript for both the front end and back end and React for the front end. We also utilized an AI software called RoboFlow to predict farm machinery prices. 
 
-Keeping the theme in mind, we brainstormed possible problems and their solutions. We noticed that our problem did not have enough viable solutions. This inspired us to work on our problem
+Keeping the theme in mind, we brainstormed possible problems and their solutions. We noticed that our problem did not have enough viable solutions. This inspired us to work on our problem.
 
 Our website will charge a fee depending on the % cost of machinery and the time period of the rent. It will also generate additional revenue through product advertisements and premium memberships.
 
